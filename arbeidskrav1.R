@@ -1,8 +1,5 @@
 
 
-
-install.packages("scales")
-
 library(tidyverse)
 library(ggplot2)
 library(scales)
